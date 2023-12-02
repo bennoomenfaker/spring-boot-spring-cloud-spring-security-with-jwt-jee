@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Page d'accueil -->
+    <url>
+        <loc>http://localhost/main/project/index.html</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Page Pc Portable Pro -->
+    <url>
+        <loc>http://localhost/main/project/pc-portable-pro.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+     <!-- Page Pc Portable Gaming -->
+     <url>
+        <loc>http://localhost/main/project/pc-portable-gaming.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+     <!-- Page Pc Portable -->
+     <url>
+        <loc>http://localhost/main/project/PC-portable.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Détail du produit -->
+    <url>
+        <loc>http://localhost/main/project/product-details.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+
+
+    <!-- Page Panier -->
+    <url>
+        <loc>http://localhost/main/project/cart.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+</urlset>
